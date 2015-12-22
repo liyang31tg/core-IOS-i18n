@@ -1,0 +1,33 @@
+
+/* Class = "UITabBarItem"; title = "个人中心"; ObjectID = "1oi-8F-k4w"; */
+"1oi-8F-k4w.title" = "个人中心";
+
+/* Class = "UITabBarItem"; title = "消息"; ObjectID = "47x-Fg-U99"; */
+"47x-Fg-U99.title" = "消息";
+
+/* Class = "UILabel"; text = "消息"; ObjectID = "8VK-gf-bNj"; */
+"8VK-gf-bNj.text" = "消息";
+
+/* Class = "UILabel"; text = "首页"; ObjectID = "HwC-Pg-Drr"; */
+"HwC-Pg-Drr.text" = "首页";
+
+/* Class = "UILabel"; text = "通讯录"; ObjectID = "S5f-7F-NGI"; */
+"S5f-7F-NGI.text" = "通讯录";
+
+/* Class = "UITabBarItem"; title = "首页"; ObjectID = "Twe-BN-rlU"; */
+"Twe-BN-rlU.title" = "首页";
+
+/* Class = "UITabBarItem"; title = "晒晒"; ObjectID = "V0P-yb-drI"; */
+"V0P-yb-drI.title" = "晒晒";
+
+/* Class = "UITabBarItem"; title = "通讯录"; ObjectID = "cME-Fy-b4C"; */
+"cME-Fy-b4C.title" = "通讯录";
+
+/* Class = "UILabel"; text = "晒晒"; ObjectID = "lM7-Io-gQG"; */
+"lM7-Io-gQG.text" = "晒晒";
+
+/* Class = "UILabel"; text = "个人中心"; ObjectID = "ptb-gj-Og1"; */
+"ptb-gj-Og1.text" = "个人中心";
+
+/* Class = "UIButton"; normalTitle = "切换"; ObjectID = "rgL-Gq-i3a"; */
+"rgL-Gq-i3a.normalTitle" = "切换";
